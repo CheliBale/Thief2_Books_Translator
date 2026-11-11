@@ -6,7 +6,7 @@ the original text might have been carefully formatted by the mission author for 
 appear as a continuous block of text. This is rarely an issue, as most books in fan-made missions consist of continuous text anyway.
 
 
-Prerequisites
+Preconditions
 
 As a precaution, please keep a backup copy of the books in a backup folder.
 
