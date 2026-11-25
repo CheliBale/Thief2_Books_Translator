@@ -28,10 +28,10 @@ Program_1
 
 2) Open the "All.html" (which will appear in the same folder after the program is launched) file in your web browser
    (Chrome is recommended, as it supports in-page translation). Right-click anywhere on the text and select the option
-   to translate it into your preferred language (you can adjust the target language in your browser's settings if necessary).
+   to translate it into your preferred language (you can adjust the target language in your browser's settings if necessary) and          scroll to the very bottom of the page, so that the translation applies to the entire text.
 
-3) Once translated, select all the text CTRL+A and copy it CTRL+C. 
-4) In the same folder, alongside the programs, create a file named "All.txt" and paste the copied text into it.
+4) Once translated, select all the text CTRL+A and copy it CTRL+C. 
+5) In the same folder, alongside the programs, create a file named "All.txt" and paste the copied text into it.
 
 
 Program_2
